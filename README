@@ -1,0 +1,9 @@
+This is "El Gato - The Mouse Jiggler" by CannaIoT
+
+This simple program is written for Arduino devices with ATMega32u processing unit, as it has native support for USB and thus can act as a mouse / keyboard emulator.
+
+The device is set to emulate mouse move after desired time.
+
+This is to prevent turning off your computer screen or logging out becouse of no activity on the computer (no mouse move or keyboard pressed).
+
+
