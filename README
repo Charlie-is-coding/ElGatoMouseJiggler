@@ -1,4 +1,4 @@
-This is "El Gato - The Mouse Jiggler" by CannaIoT
+This is "El Gato - The Mouse Jiggler" by Charlie's Electronic Devices For People (aka. Charlie-is-coding) ;)
 
 This simple program is written for Arduino devices with ATMega32u processing unit, as it has native support for USB and thus can act as a mouse / keyboard emulator.
 
